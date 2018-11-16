@@ -56,6 +56,7 @@
               axios({
                   method: 'PUT',
                   url: 'http://localhost:4242/Update/',
+                  headers: { 'Authorization': this.$store.state.token },
                   data: obj,
               })
               .then(() => {
