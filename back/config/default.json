@@ -1,0 +1,13 @@
+{
+  "api": {
+    "port": 4242
+  },
+  "mongo": {
+    "host": "ds259253.mlab.com",
+    "user": "MasterKirito",
+    "password": "jeremyluu29"
+  },
+  "secret": {
+    "secret": "secret"
+  }
+}

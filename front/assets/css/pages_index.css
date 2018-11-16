@@ -1,0 +1,17 @@
+body {
+  background-image: radial-gradient(circle at center, white, cadetblue);
+}
+
+.subtitle {
+  font-size: 35px;
+  margin-top: 150px;
+  text-align: center;
+}
+
+.container {
+  margin-top: 25px;
+}
+
+img {
+  width: 20%;
+}

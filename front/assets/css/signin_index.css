@@ -1,0 +1,43 @@
+body {
+    background-image: radial-gradient(circle at center, white, cadetblue);
+}
+
+button {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+input {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+select {
+    margin-top: 25px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
+
+.container {
+    margin-top: 75px;
+}
+
+.subtitle {
+    font-size: 35px;
+    color: #526488;
+    text-align: center;
+}
+
+.subtitle-right {
+    font-size: 25px;
+    color: #526488;
+    margin-top: 75px;
+    text-align: center;
+}
